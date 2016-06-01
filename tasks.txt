@@ -1,0 +1,21 @@
+
+Review
+
+Create a new Java Project titled Review – this is where you will save all your work.  DO NOT USE COPY WORK FROM EARLIER IN THE YEAR.  This is to remind you what you learned.
+ArrayListReview.java
+Write a program that will prompt the user to enter 10 integers.  Store the numbers in an ArrayList. Use a FOR EACH loop to display the numbers.  Determine and output the average.
+ 
+StackReview.java
+Write a program that will create a stack : Stack<String> toDoList = new Stack<String>();
+Give me the options to ADD, REMOVE and SEE NEXT ITEM to my toDoList
+Create a GUI using JavaFX
+ 
+QueueReview.java/StackReview
+Queue<String> waitingList = new LinkedList<String>();
+The library would like us to keep track of the waitingList for books
+Create a GUI using JavaFX
+ 
+MapReview.java
+Using a Map of ID Numbers and name allow me to add a student, remove a student and display all student
+BONUS: create a GUI using JavaFX
+
