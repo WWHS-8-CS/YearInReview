@@ -13,7 +13,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class Queueueue extends Application implements EventHandler<ActionEvent>{
+public class QueueReview extends Application implements EventHandler<ActionEvent>{
 	Queue<String> s = new LinkedList<String>();
 	Button add = new Button("Add To Queueueue");
 	Button pop = new Button("Remov Frome Queueue");
