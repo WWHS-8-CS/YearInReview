@@ -7,7 +7,7 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import java.util.*;
 
-public class StackReview extends Application {
+public class OldStackReview extends Application {
   
   public static void main(String[] args) {
   //push, pop, peek 
